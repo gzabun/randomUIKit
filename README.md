@@ -1,10 +1,7 @@
-scss'de kullandığım bazılarını kendim yazdığım bazıları derlediğim function ve mixin'ler bulunmaktadır,
 
-function ve mixin için ileri'ki tarihte bir dökümantasyon yapmayı planlıyorum.
+Mixinleri kullanarak kendime componentler hazırlıyorum
 
-Ek Olarak componentler hazırlıyorum componentlerinin sayısı ve çeşitleri arttıkça başka bir repoya taşıyabilirim.
-
-GitHub Pages : https://gzabun.github.io/scssMixin/
+GitHub Pages : https://gzabun.github.io/randomUIKit/
 
 Katkıda bulunursanız sevinirim düzenlemek istediğiniz alanlar veya eklemek istedikleriniz için Pull Request Açabilirsiniz.
 
