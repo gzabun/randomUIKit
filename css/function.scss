@@ -1,5 +1,5 @@
 @function remCalculation($pxValue) {
-    @return $pxValue / $globalRem * 1rem
+    @return $pxValue / $globalRem * 1rem;
 }
 
 @function colorOpacity($color, $opacity:1) {
