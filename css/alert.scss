@@ -1,8 +1,8 @@
 .global-alert-area {
     display: flex;
     align-items: center;
-    .global-alert[mode="default"] {
-        display: flex;
+    .global-alert[mode="default"] { 
+        display: flex; 
         justify-content: space-between;
         max-width: remCalculation(500);
         padding: remCalculation(10) remCalculation(15);
@@ -10,7 +10,7 @@
         align-items: center;
         border-radius: remCalculation(8);
         span {
-            @include fontCalculation( $normal, 18, 27, $roboto, #fff);
+            @include fontCalculation($normal, 18, 27, $roboto, #fff);
         }
         @include closeIcon;
         @each $type-name, 
