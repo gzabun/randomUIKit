@@ -13,7 +13,7 @@
             @include fontCalculation( $normal, 18, 27, $roboto, #fff);
         }
         @include closeIcon;
-        @each $type-name,
+        @each $type-name, 
         $type-color in $color-set {
             &[type="#{$type-name}"] {
                 background: $type-color;

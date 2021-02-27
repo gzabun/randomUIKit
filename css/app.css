@@ -35,14 +35,14 @@ https://codepen.io/gzabun/pen/vYyWKLj
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
-  max-width: 31.25+rem;
-  padding: 0.625+rem 0.9375+rem;
+  max-width: 31.25rem;
+  padding: 0.625rem 0.9375rem;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  border-radius: 0.5+rem;
+  border-radius: 0.5rem;
 }
 
 .global-alert-area .global-alert[mode="default"] span {
@@ -145,14 +145,14 @@ https://codepen.io/gzabun/pen/vYyWKLj
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
-  max-width: 31.25+rem;
-  padding: 0.625+rem 0.9375+rem;
+  max-width: 31.25rem;
+  padding: 0.625rem 0.9375rem;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  border-radius: 0.5+rem;
+  border-radius: 0.5rem;
 }
 
 .global-alert-area .global-alert[mode="border"] span {
@@ -196,7 +196,7 @@ https://codepen.io/gzabun/pen/vYyWKLj
 
 .global-alert-area .global-alert[mode="border"][type="default"] {
   background: transparent;
-  border: 0.125+rem solid #3E7BFA;
+  border: 0.125rem solid #3E7BFA;
 }
 
 .global-alert-area .global-alert[mode="border"][type="default"] span {
@@ -210,7 +210,7 @@ https://codepen.io/gzabun/pen/vYyWKLj
 
 .global-alert-area .global-alert[mode="border"][type="primary"] {
   background: transparent;
-  border: 0.125+rem solid #0063F7;
+  border: 0.125rem solid #0063F7;
 }
 
 .global-alert-area .global-alert[mode="border"][type="primary"] span {
@@ -224,7 +224,7 @@ https://codepen.io/gzabun/pen/vYyWKLj
 
 .global-alert-area .global-alert[mode="border"][type="secondary"] {
   background: transparent;
-  border: 0.125+rem solid #00CFDE;
+  border: 0.125rem solid #00CFDE;
 }
 
 .global-alert-area .global-alert[mode="border"][type="secondary"] span {
@@ -238,7 +238,7 @@ https://codepen.io/gzabun/pen/vYyWKLj
 
 .global-alert-area .global-alert[mode="border"][type="success"] {
   background: transparent;
-  border: 0.125+rem solid #06C270;
+  border: 0.125rem solid #06C270;
 }
 
 .global-alert-area .global-alert[mode="border"][type="success"] span {
@@ -252,7 +252,7 @@ https://codepen.io/gzabun/pen/vYyWKLj
 
 .global-alert-area .global-alert[mode="border"][type="danger"] {
   background: transparent;
-  border: 0.125+rem solid #FF3B3B;
+  border: 0.125rem solid #FF3B3B;
 }
 
 .global-alert-area .global-alert[mode="border"][type="danger"] span {
@@ -266,7 +266,7 @@ https://codepen.io/gzabun/pen/vYyWKLj
 
 .global-alert-area .global-alert[mode="border"][type="warning"] {
   background: transparent;
-  border: 0.125+rem solid #FF8800;
+  border: 0.125rem solid #FF8800;
 }
 
 .global-alert-area .global-alert[mode="border"][type="warning"] span {
@@ -285,14 +285,14 @@ https://codepen.io/gzabun/pen/vYyWKLj
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
-  max-width: 31.25+rem;
-  padding: 0.625+rem 0.9375+rem;
+  max-width: 31.25rem;
+  padding: 0.625rem 0.9375rem;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  border-radius: 0.5+rem;
+  border-radius: 0.5rem;
 }
 
 .global-alert-area .global-alert[mode="border-left"] span {
@@ -337,8 +337,8 @@ https://codepen.io/gzabun/pen/vYyWKLj
 .global-alert-area .global-alert[mode="border-left"][type="default"] {
   background: transparent;
   border: 1px solid #3E7BFA;
-  border-left: 0.25+rem solid #3E7BFA;
-  border-right: 0.25+rem solid #3E7BFA;
+  border-left: 0.25rem solid #3E7BFA;
+  border-right: 0.25rem solid #3E7BFA;
 }
 
 .global-alert-area .global-alert[mode="border-left"][type="default"] span {
@@ -353,8 +353,8 @@ https://codepen.io/gzabun/pen/vYyWKLj
 .global-alert-area .global-alert[mode="border-left"][type="primary"] {
   background: transparent;
   border: 1px solid #0063F7;
-  border-left: 0.25+rem solid #0063F7;
-  border-right: 0.25+rem solid #0063F7;
+  border-left: 0.25rem solid #0063F7;
+  border-right: 0.25rem solid #0063F7;
 }
 
 .global-alert-area .global-alert[mode="border-left"][type="primary"] span {
@@ -369,8 +369,8 @@ https://codepen.io/gzabun/pen/vYyWKLj
 .global-alert-area .global-alert[mode="border-left"][type="secondary"] {
   background: transparent;
   border: 1px solid #00CFDE;
-  border-left: 0.25+rem solid #00CFDE;
-  border-right: 0.25+rem solid #00CFDE;
+  border-left: 0.25rem solid #00CFDE;
+  border-right: 0.25rem solid #00CFDE;
 }
 
 .global-alert-area .global-alert[mode="border-left"][type="secondary"] span {
@@ -385,8 +385,8 @@ https://codepen.io/gzabun/pen/vYyWKLj
 .global-alert-area .global-alert[mode="border-left"][type="success"] {
   background: transparent;
   border: 1px solid #06C270;
-  border-left: 0.25+rem solid #06C270;
-  border-right: 0.25+rem solid #06C270;
+  border-left: 0.25rem solid #06C270;
+  border-right: 0.25rem solid #06C270;
 }
 
 .global-alert-area .global-alert[mode="border-left"][type="success"] span {
@@ -401,8 +401,8 @@ https://codepen.io/gzabun/pen/vYyWKLj
 .global-alert-area .global-alert[mode="border-left"][type="danger"] {
   background: transparent;
   border: 1px solid #FF3B3B;
-  border-left: 0.25+rem solid #FF3B3B;
-  border-right: 0.25+rem solid #FF3B3B;
+  border-left: 0.25rem solid #FF3B3B;
+  border-right: 0.25rem solid #FF3B3B;
 }
 
 .global-alert-area .global-alert[mode="border-left"][type="danger"] span {
@@ -417,8 +417,8 @@ https://codepen.io/gzabun/pen/vYyWKLj
 .global-alert-area .global-alert[mode="border-left"][type="warning"] {
   background: transparent;
   border: 1px solid #FF8800;
-  border-left: 0.25+rem solid #FF8800;
-  border-right: 0.25+rem solid #FF8800;
+  border-left: 0.25rem solid #FF8800;
+  border-right: 0.25rem solid #FF8800;
 }
 
 .global-alert-area .global-alert[mode="border-left"][type="warning"] span {
@@ -437,8 +437,8 @@ https://codepen.io/gzabun/pen/vYyWKLj
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
-  max-width: 31.25+rem;
-  padding: 0.625+rem 0.9375+rem;
+  max-width: 31.25rem;
+  padding: 0.625rem 0.9375rem;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   -webkit-box-align: center;
@@ -582,14 +582,14 @@ https://codepen.io/gzabun/pen/vYyWKLj
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
-  max-width: 31.25+rem;
-  padding: 0.625+rem 0.9375+rem;
+  max-width: 31.25rem;
+  padding: 0.625rem 0.9375rem;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  border-radius: 0.25+rem;
+  border-radius: 0.25rem;
 }
 
 .global-alert-area .global-alert[mode="border-left2"] span {
@@ -1199,11 +1199,11 @@ button[type="warning"]:hover[animation="offset"]:hover {
 }
 
 .button-area button[mode="default"] {
-  border-radius: 0.25+rem;
+  border-radius: 0.25rem;
   border: 0;
-  min-width: 11.5625+rem;
-  max-width: 11.5625+rem;
-  padding: 0.8125+rem 0;
+  min-width: 11.5625rem;
+  max-width: 11.5625rem;
+  padding: 0.8125rem 0;
   text-align: center;
   font: 600 1.5625+rem / 2+rem "Source Sans Pro";
   color: white;
@@ -1285,11 +1285,11 @@ button[type="warning"]:hover[animation="offset"]:hover {
 }
 
 .button-area button[mode="oval"] {
-  border-radius: 2.5+rem;
+  border-radius: 2.5rem;
   border: 0;
-  min-width: 12.5+rem;
-  max-width: 12.5+rem;
-  padding: 0.8125+rem 0;
+  min-width: 12.5rem;
+  max-width: 12.5rem;
+  padding: 0.8125rem 0;
   text-align: center;
   font: 600 1.5625+rem / 2+rem "Source Sans Pro";
   color: white;
@@ -1370,11 +1370,11 @@ button[type="warning"]:hover[animation="offset"]:hover {
 }
 
 .button-area button[mode="border"] {
-  border-radius: 2.5+rem;
+  border-radius: 2.5rem;
   border: 0;
-  min-width: 12.5+rem;
-  max-width: 12.5+rem;
-  padding: 0.8125+rem 0;
+  min-width: 12.5rem;
+  max-width: 12.5rem;
+  padding: 0.8125rem 0;
   text-align: center;
   font: 600 1.5625+rem / 2+rem "Source Sans Pro";
   color: white;
@@ -1467,11 +1467,11 @@ button[type="warning"]:hover[animation="offset"]:hover {
 }
 
 .button-area button[mode="offset"] {
-  border-radius: 0.25+rem;
+  border-radius: 0.25rem;
   border: 0;
-  min-width: 11.5625+rem;
-  max-width: 11.5625+rem;
-  padding: 0.8125+rem 0;
+  min-width: 11.5625rem;
+  max-width: 11.5625rem;
+  padding: 0.8125rem 0;
   text-align: center;
   font: 600 1.5625+rem / 2+rem "Source Sans Pro";
   color: white;
